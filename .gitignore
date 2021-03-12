@@ -1,4 +1,5 @@
 *.iml
 .idea
-
+hive
+dist
 aws-glue-datacatalog-spark-client/target
